@@ -56,6 +56,11 @@ Shows total orders, total spending, and average order value for each customer.
 
 <img width="524" height="112" alt="Screenshot 2026-09-01 112759" src="https://github.com/user-attachments/assets/66bd0d34-7e9f-4051-9ce4-2ecc6801dd37" />
 
+## Updated ER Diagram
 
+<img width="738" height="806" alt="Screenshot 2026-09-01 114004" src="https://github.com/user-attachments/assets/b57ae39b-f41f-4c73-ac31-1f6fb8ac9bdd" />
 
+## Conclusion
+
+The Order Management System was successfully implemented using SQL. The required tables, relationships, order operations, and three reports were created successfully. The ER diagram and report outputs are also included as part of the submission.
 
