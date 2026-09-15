@@ -1,12 +1,12 @@
-# 💳 Payment Management & Analysis – SQL Project
+# Payment Management & Analysis – SQL Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on creating and analyzing a **Payment Management System** using MySQL. The Payment table is connected with the Orders table through a **foreign key relationship**, allowing payment details to be tracked for each order.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Create a structured Payment table.
 * Establish an **Order–Payment relationship** using a foreign key.
@@ -17,14 +17,14 @@ This project focuses on creating and analyzing a **Payment Management System** u
 
 ---
 
-## 🗄️ Payment Table Design
+##  Payment Table Design
 
 The `Payment` table stores payment details such as Order ID, Payment Date, Payment Mode, Payment Status, and Transaction Amount. It uses **Primary Key, Foreign Key, Auto Increment, Default, and CHECK constraints** for proper data management.
 
 
 ---
 
-## 🔗 ER Relationship
+##  ER Relationship
 
 The Payment table is connected to the Orders table using:
 
@@ -38,7 +38,7 @@ One order can have payment records associated with it, while each payment belong
 ---
 
 
-# 📊 Payment Analysis Reports
+#  Payment Analysis Reports
 
 ## Report 1 – Payment Mode Analysis
 
@@ -71,7 +71,7 @@ Shows customer name, order ID, payment mode, amount and payment status.
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 The Payment Management System provides a structured way to store and analyze customer payment information. The SQL queries help identify preferred payment methods, analyze revenue, monitor transaction statuses, and track individual customer payment history.
 
