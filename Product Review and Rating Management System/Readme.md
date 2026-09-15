@@ -1,9 +1,9 @@
-# ⭐ Product Review & Rating Management – SQL Project
-## 📌 Project Overview
+# Product Review & Rating Management – SQL Project
+## Project Overview
 
 This project focuses on creating and analyzing a Product Review and Rating Management System using MySQL. The Review table is connected with the Customers and Products tables through foreign key relationships, allowing customer feedback and product ratings to be stored and analyzed.
 
-## 🎯 Objectives
+## Objectives
 Create a structured Review table.
 
 Establish Customer–Review and Product–Review relationships using foreign keys.
@@ -16,7 +16,7 @@ Analyze product ratings and customer feedback.
 
 Identify highly rated and low-rated products.
 
-## 🗄️ Review Table Design
+## Review Table Design
 
 The Review table stores customer feedback such as Customer ID, Product ID, Rating, Review Text, and Review Date. It uses Primary Key, Foreign Key, NOT NULL, Auto Increment, Default, and CHECK constraints for proper data management.
 
@@ -33,7 +33,7 @@ One customer can write multiple reviews, while each review belongs to one custom
 <img width="840" height="808" alt="Screenshot 2026-09-09 142606" src="https://github.com/user-attachments/assets/7e8dde44-a2ce-4f81-be0f-4c45fdbca98e" />
 
 
-## 📊 Product Review Analysis Reports
+## Product Review Analysis Reports
 
 ### Report 1 - Product Rating Analysis
 <img width="518" height="450" alt="Screenshot 2026-09-09 142447" src="https://github.com/user-attachments/assets/00371a21-b6e8-48ab-b6ee-cfaa44df96a9" />
@@ -50,14 +50,10 @@ Shows the number of reviews, average rating, and product performance, helping id
 
 Shows the distribution of 5-star, 4-star, and low ratings, providing an overview of customer satisfaction.
 
-## 🛠️ Technologies Used
+## Technologies Used
 MySQL
 
 MySQL Workbench
 
 SQL
-
-## ✅ Conclusion
-
-The Product Review and Rating Management System provides a structured way to store and analyze customer feedback. The SQL queries help identify highly rated products, customer satisfaction levels, review counts, and products requiring improvement.
 
