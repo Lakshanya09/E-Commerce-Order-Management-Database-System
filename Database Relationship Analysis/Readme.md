@@ -1,5 +1,5 @@
 
-# SQL Joins – E-Commerce Database
+# DATABASE RELATIONSHIP ANALYSIS
 
 ## Overview
 
