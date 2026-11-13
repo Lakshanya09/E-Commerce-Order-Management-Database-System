@@ -103,6 +103,39 @@ Tested the created database objects to verify their execution and results.
 - Verified stock updates
 - Checked report generation
 
+
+### Workflow 
+
+Customer Places Order
+
+        ↓
+        
+Check Product Availability
+
+        ↓
+        
+Insert Order Details
+
+        ↓
+        
+Calculate Total Amount
+
+        ↓
+
+Reduce Product Stock
+
+        ↓
+        
+Create Payment Record
+
+        ↓
+        
+Update Order Information
+
+        ↓
+        
+Generate Business Reports
+
 ## SQL Concepts Used
 
 - **VIEW** – Creates virtual tables
