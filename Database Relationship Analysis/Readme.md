@@ -124,37 +124,6 @@ Displays payment mode, number of transactions, and successful payments.
 
 Analyses customer spending and number of orders.
 
-### Workflow 
-
-Customer Places Order
-
-        ↓
-        
-Check Product Availability
-
-        ↓
-        
-Insert Order Details
-
-        ↓
-        
-Calculate Total Amount
-
-        ↓
-
-Reduce Product Stock
-
-        ↓
-        
-Create Payment Record
-
-        ↓
-        
-Update Order Information
-
-        ↓
-        
-Generate Business Reports
 
 ## SQL Concepts Used
 
